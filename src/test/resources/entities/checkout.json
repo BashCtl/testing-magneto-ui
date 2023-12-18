@@ -1,0 +1,16 @@
+{
+  "email": "johnwick@test.com",
+  "firstName": "John",
+  "lastName": "Wick",
+  "company": "AllSafe",
+  "address1": "33 Unknown St.",
+  "address2": "second address",
+  "address3": "third address",
+  "city": "Dark City",
+  "state": "British Columbia",
+  "zipCode": "12345-6789",
+  "country": "Canada",
+  "phoneNumber": "555-55-55",
+  "isTableRateMethod": false,
+  "isFixedMethod": true
+}
